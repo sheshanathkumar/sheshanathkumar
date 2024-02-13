@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sheshanath</h1>
 <h3 align="center">Dedicated and skilled professional adept at developing robust applications and ensuring their seamless deployment.</h3>
 
+<img align="right" alt="code" width="400" src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e4773be9ilj48zb5cnwsx86xoc9p7vyfn2v7xf2z6vb&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheshanathkumar" alt="sheshanathkumar" /></a> </p>
 
